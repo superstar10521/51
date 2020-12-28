@@ -1,0 +1,24 @@
+h1 {
+    color: #a52a2a
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: #d0ff00;
+    display: flex;
+    justify-content: space-between; 
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   background-color: #242431; 
+}
+.footer {
+    display:flex;
+    justify-content: flex-end;
+    background-color: #ff00bf;
+}
